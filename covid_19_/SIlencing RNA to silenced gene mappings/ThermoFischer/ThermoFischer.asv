@@ -1,0 +1,6 @@
+siRNA_Names=strings(4000,1);
+AssociatedGeneStrings=zeros(4000,1);
+No_of_AssociatedGenes=zeros(4000,1);
+for i=1:4000
+    A = count( str , pat )
+end
